@@ -101,7 +101,7 @@ echo "<script>window.location.href ='contact.php'</script>";
 						<li><a href="index.html">Home</a></li>
 						
 						<li><a href="contact.php">contact</a></li>
-						<li><a href="contact.php">contact</a></li>
+						
 					</ul>
 		   	</div>
 		  
@@ -111,4 +111,4 @@ echo "<script>window.location.href ='contact.php'</script>";
 		<!--end-wrap-->
 	</body>
 </html>
-
+dsdsd
