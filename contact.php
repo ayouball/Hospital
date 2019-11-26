@@ -100,7 +100,7 @@ echo "<script>window.location.href ='contact.php'</script>";
 		   			<ul>
 						<li><a href="index.html">Home</a></li>
 						
-						<li><a href="contact.php">contact error</a></li>
+						<li><a href="contact.php">contact</a></li>
 					</ul>
 		   	</div>
 		  
